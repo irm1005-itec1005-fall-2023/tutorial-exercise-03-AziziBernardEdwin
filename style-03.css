@@ -286,6 +286,35 @@ main section.testimonials blockquote {
   border-bottom-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
 }
+
+
+/* FOOTER SYTLES */
+footer {
+  margin: 8rem 0;
+  background-color: inherit;
+  color: #fff;
+  padding: 1rem;
+}
+
+footer nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer a {
+  color: inherit;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer .copywrite {
+  margin: 5rem 0 1rem 0;
+}
+
 /* AND THAT'S IT! YOU ARE DONE. CONGRATULATIONS. POST YOUR LINK! */
 
 
